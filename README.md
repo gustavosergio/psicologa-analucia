@@ -9,3 +9,5 @@ Conteúdo e fotografias de referência: https://www.psicologanalucia.com.br/, co
 Antes de publicar a versão final, solicitar à profissional seu número de CRP para inclusão na identificação e confirmar informações, horários, valores conversados no contato e autorização das fotografias. O site original não foi alterado.
 
 Arquivos: index.html, style.css, script.js e assets/. Fontes Google Fonts com alternativas locais de sistema. As fotos são locais. Não há formulário de coleta de dados, rastreadores ou cookies da aplicação.
+
+Avaliações: sete trechos de comentários individuais, com nomes e notas conferidos no perfil Google Maps em 06/11/2026. O arquivo reviews.json guarda uma cópia estática desses trechos; a passagem dos cards é automática, mas novas avaliações exigem atualização manual. Todos os cards identificam o conteúdo como trecho e apontam para o perfil original. A rotação pausa ao passar o mouse, ao focar controles, ao sair da seção, ao ocultar a aba ou ao acionar Pausar; respeita preferência por movimento reduzido. Os textos são inseridos com textContent.
